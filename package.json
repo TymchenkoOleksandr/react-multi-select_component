@@ -8,7 +8,7 @@
   "dependencies": {
     "@khanacademy/react-multi-select": "0.2.6",
     "react": "16.2.0",
-    "react-dom": "16.2.0",
+    "react-dom": "16.12.0",
     "react-powerplug": "0.1.5",
     "react-scripts": "1.1.0"
   },
